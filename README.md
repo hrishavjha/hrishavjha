@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishavjha" alt="hrishavjha" /></a> </p>
 
-- 🔭 I’m currently working on [assignment assesment portal](github.com/hrishavjha/assignments)
+- 🔭 I’m currently working on [assignment assesment portal](https://github.com/hrishavjha/Assignments)
 
 - 👨‍💻 All of my projects are available at [https://hrishavjha.github.io/](https://hrishavjha.github.io/)
 
