@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I think i'm funny :')**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/hrishavjha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hrishavjha" height="30" width="40" /></a>
 <a href="https://discord.gg/GrandMaster#7451" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="GrandMaster#7451" height="30" width="40" /></a>
