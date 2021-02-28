@@ -34,4 +34,5 @@ class About extends Me
         return 'To compile a code w/o any error.';
     }
 }
+?>
 ```
